@@ -10,6 +10,7 @@ Welcome to the Comesense Technology repository! This repository contains example
 - **Input-Output**: Examples of input and output operations in Java.
 - **Loops**: Examples of loops (for, while, do-while) in Java.
 - **Operators**: Examples of operators in Java.
+- **Assignments**: Examples of Methods in Java.
 
 ---
 

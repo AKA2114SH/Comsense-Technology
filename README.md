@@ -1,6 +1,3 @@
-Certainly! Below is an updated and well-structured `README.md` for your **Comsense Technology** repository. This version includes a clear folder structure, descriptions, and links to your GitHub repository.
-
----
 
 # Comesense Technology
 

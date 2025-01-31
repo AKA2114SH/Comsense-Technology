@@ -1,4 +1,4 @@
-class patter1 {
+class pattern1 {
     public static void main(String[] args) {
         for (int line = 0; line <= 5 ; line++){
             for (int star = 0; star < line ; star++){

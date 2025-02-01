@@ -17,6 +17,7 @@ public class HappyNumber {
         } else {
             System.out.println(num + " is an unhappy number.");
         }
+        sc.close();
     }
 
     public static int isHappyNumber(int num) {

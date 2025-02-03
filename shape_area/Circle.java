@@ -1,5 +1,4 @@
 package shape_area;
-import java.util.Scanner;
 
 
 class Circle extends Shape {

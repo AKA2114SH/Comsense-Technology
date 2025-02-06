@@ -1,10 +1,12 @@
+
 class First
 {
-    int a, b;   //Instance Variables
+    int a;   //Instance Variables
+    String b;
     First(int x, int y)  //Parameterized Constructor
     {
         a = x;
-        b = y;
+        b = Integer.toString(y);
     }
     First(int x, String y)  //Parameterized Constructor
     {

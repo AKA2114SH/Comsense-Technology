@@ -1,4 +1,4 @@
-package Exception.src.com.custom_exception;
+package Exception_Handling.custom_exception;
 
 
 public class InvalidAgeException extends Exception {

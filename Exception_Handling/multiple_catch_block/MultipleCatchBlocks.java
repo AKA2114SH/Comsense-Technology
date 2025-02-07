@@ -1,4 +1,4 @@
-package Exception.src.com.multiple_catch_block;
+package Exception_Handling.multiple_catch_block;
 
 import java.util.Scanner;
 

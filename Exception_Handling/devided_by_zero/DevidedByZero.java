@@ -1,4 +1,4 @@
-package Exception.src.com.devided_by_zero;
+package Exception_Handling.devided_by_zero;
 
 public class DevidedByZero {
 

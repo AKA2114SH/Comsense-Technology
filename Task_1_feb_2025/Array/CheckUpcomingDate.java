@@ -17,5 +17,6 @@ public class CheckUpcomingDate {
         } else {
             System.out.println("The date is not upcoming.");
         }
+        scanner.close();
     }
 }

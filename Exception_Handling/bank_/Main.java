@@ -42,5 +42,6 @@ public class Main {
      } catch (InsufficientFundException e) {
          System.out.println(e.getMessage()); 
      } 
+     scanner.close();
  }
 }

@@ -13,6 +13,7 @@ public class NumberFormatException {
 		input=sc.next();
 		Integer.parseInt(input);
 		System.out.println(input);
+		sc.close();
 	}catch(Exception e){
 		System.out.println("Number format exception");
 	}
